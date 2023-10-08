@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aliakbar-Hosseinzadeh
-- 👀 I’m interested in AI/ML, DevOps, python and Django.
+- 👀 I’m interested in DevOps, python and FastAPI/Django.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: aliakbar.hosseinzadeh@gmail.com
