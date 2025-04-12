@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliakbar-Hosseinzadeh
-- 👀 I’m interested in DevOps, python, FastAPI and Django.
-- 🌱 I’m currently learning ML.
+- 👀 I’m interested in Data, python (FastAPI and Django).
+- 🌱 I’m currently learning Data Ebgineer.
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: aliakbar.hosseinzadeh@gmail.com
 
